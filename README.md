@@ -18,8 +18,8 @@
 
 ## Dashboard Screenshot
 
-![Dashboard](Blinkit dashboard.jpg)
+![Dashboard](<Blinkit dashboard.jpg>)
 
 ## Author
-Nidhi Chauhan# Blinkit-Sales-Analysis-
+Nidhi Chauhan |
 Interactive power bi dashboard for blinkit sales analysis 
